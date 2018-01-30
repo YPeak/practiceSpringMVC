@@ -14,6 +14,7 @@ public class TestModelAttribute5 {
 
     @RequestMapping("testModelAttribute")
     public String testM(){
+        System.out.print("测试idea修改提交");
         return "testModelAttribute";
     }
 
