@@ -2,36 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edf49714-409d-4ec7-befc-3b41e6bcebc1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/aopalliance.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/aopalliance__2_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/12.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/B1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yu分支专属.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/ModelAttributeInMethod7.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/ModelAttributeInMethod7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/Practice2.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/Practice2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/Ref3.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/Ref3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestController.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestModelAttribute5.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestModelAttribute5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestModelAttributeT6.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestModelAttributeT6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestRequestMapping4.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestRequestMapping4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/entity/User.class" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/entity/User.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/ModelAttributeInMethod7.class" afterPath="$PROJECT_DIR$/out/production/B1/com/ModelAttributeInMethod7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/Practice2.class" afterPath="$PROJECT_DIR$/out/production/B1/com/Practice2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/Ref3.class" afterPath="$PROJECT_DIR$/out/production/B1/com/Ref3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/TestController.class" afterPath="$PROJECT_DIR$/out/production/B1/com/TestController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/TestModelAttribute5.class" afterPath="$PROJECT_DIR$/out/production/B1/com/TestModelAttribute5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/TestModelAttributeT6.class" afterPath="$PROJECT_DIR$/out/production/B1/com/TestModelAttributeT6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/com/TestRequestMapping4.class" afterPath="$PROJECT_DIR$/out/production/B1/com/TestRequestMapping4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/B1/entity/User.class" afterPath="$PROJECT_DIR$/out/production/B1/entity/User.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/ModelAttributeInMethod7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/Practice2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/Ref3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestModelAttribute5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestModelAttributeT6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/com/TestRequestMapping4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/classes/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/aopalliance.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/aspectjweaver.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/commons-lang-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/commons-logging-1.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-aspects-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-context-support-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-instrument-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-jms-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-messaging-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-orm-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-oxm-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-test-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/spring-webmvc-4.1.6.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/lib/standard-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/YYY.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/a.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/login.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/medolAttribute/T/YYY.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/reg.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/sorry.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testModelAttribute.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testModelAttributeResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testRequest.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testRequestA.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testRequestB.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testRequestC.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testRequestY.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/testRequestZ.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/welcom.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/yushuwei.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/springmvc-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/index.jsp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/B1_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/B1_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/a.jsp" afterPath="$PROJECT_DIR$/out/artifacts/B1_war_exploded/WEB-INF/page/a.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/page/a.jsp" afterPath="$PROJECT_DIR$/web/WEB-INF/page/a.jsp" />
     </list>
     <ignored path="B1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,6 +143,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="B1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -135,6 +194,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="RunManager" selected="Tomcat Server.Unnamed">
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
@@ -303,6 +363,7 @@
       <method>
         <option name="BuildArtifacts" enabled="true">
           <artifact name="B1:war exploded" />
+          <artifact name="B1:war exploded" />
         </option>
       </method>
     </configuration>
@@ -320,12 +381,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517315899275</updated>
-      <workItem from="1517315900631" duration="199000" />
+      <workItem from="1517315900631" duration="717000" />
     </task>
+    <task id="LOCAL-00001" summary="11">
+      <created>1517316130264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517316130264</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199000" />
+    <option name="totallyTimeSpent" value="717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1102" extended-state="0" />
@@ -337,7 +406,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -352,7 +421,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.399361" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3991462" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -372,6 +441,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
