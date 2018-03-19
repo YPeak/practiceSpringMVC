@@ -23,7 +23,7 @@ public class ModelAttributeInMethod7 {
         return name;
     }
 //    测试@modelAttribute在方法参数中的使用(和@RequestParm取值一样的用法)
-    @RequestMapping("/modelAttributeInMethod")
+    @RequestMapping(value="/modelAttributeInMethod")
     public String test2(@ModelAttribute("name")String name , Model model){
         return name;
     }

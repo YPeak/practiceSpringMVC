@@ -12,5 +12,6 @@
   </head>
   <body>
   $END$adsf
+  <input type="checkbox" value="测试checkbox">
   </body>
 </html>
