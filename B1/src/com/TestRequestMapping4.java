@@ -51,13 +51,13 @@ public ModelAndView test(){
     @ModelAttribute //修饰符先于处理方法调用,可以先向Medol中添加数据(前台怎样传数据以这种方式接收数据
                     // 已验证:http://localhost:8080/B1/B/testB?userName=111&pw d=222)
                     //注:拼的参数名要和形参一致
-    public void userModel(String userName , String pwd , Model model){
-        User user = new User();
-        user.setName(userName);
-        user.setPwd(pwd);
-        model.addAttribute("user",user);
-
-    }
+//    public void userModel(String userName , String pwd , Model model){
+//        User user = new User();
+//        user.setName(userName);
+//        user.setPwd(pwd);
+//        model.addAttribute("user",user);
+//
+//    }
     @RequestMapping(value = "/testB",method = RequestMethod.GET)//服务方法名
     String test5(Model model){
         User user =(User) model.asMap().get("user");

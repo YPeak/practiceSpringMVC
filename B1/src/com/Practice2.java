@@ -27,7 +27,7 @@ public class Practice2 {
 
         User user = new User();
         user.setName(name);
-        user.setPwd(pwd);
+//        user.setPwd(pwd);
         model.addAttribute("user",user);
 //        model.addAttribute("userName" ,name);
 //        model.addAttribute("pwd",pwd);
